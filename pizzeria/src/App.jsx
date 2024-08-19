@@ -1,9 +1,8 @@
 import React from 'react';
-import ReactDOM from 'react-dom/client';
-import 'bootstrap/dist/css/bootstrap.min.css';
 import MyNavbar from "./assets/componentes/Navbar";
 import Home from "./assets/componentes/Home";
 import Footer from "./assets/componentes/Footer";
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 const App = () => {
   return (
